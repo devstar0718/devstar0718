@@ -1,4 +1,4 @@
-### Hi, This is Alex Wang Xu. 👋
+### Hi, . 👋
 I am a full stack developer with 7+ years of Programming Experiences.
 
 Skills: Python, React, .NET, Ruby, Angular, Node
